@@ -1,0 +1,4 @@
+# Created at 2020-05-29T23:48:59.883
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Automation Folder\Eclipse Workspace\FreeCRM\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

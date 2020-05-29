@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44434" started-at="2020-05-29T18:19:03Z" finished-at="2020-05-29T18:19:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44434" started-at="2020-05-29T18:19:03Z" finished-at="2020-05-29T18:19:47Z">
+      <class name="com.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.LoginPageTest@29f69090]" name="setUp" is-config="true" duration-ms="29160" started-at="2020-05-29T18:19:03Z" finished-at="2020-05-29T18:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.qa.test.LoginPageTest@29f69090]" name="loginTest" duration-ms="13858" started-at="2020-05-29T18:19:32Z" finished-at="2020-05-29T18:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.test.LoginPageTest@29f69090]" name="TearDown" is-config="true" duration-ms="810" started-at="2020-05-29T18:19:46Z" finished-at="2020-05-29T18:19:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.test.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
